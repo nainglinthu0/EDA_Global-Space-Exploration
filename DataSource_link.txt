@@ -1,0 +1,9 @@
+﻿https://www.kaggle.com/datasets/atharvasoundankar/global-space-exploration-dataset-2000-2025/data
+Global Space Exploration Dataset (2000-2025)
+Column Numbers: 12
+Column Names: Country Year Mission Name Mission Type Launch Site Satellite Type Budget (in Billion $) Success Rate (%) Technology Used Environmental Impact Collaborating Countries Duration (in Days)
+About Dataset
+🚀 Description
+The Global Space Exploration Dataset (2000-2024) is a meticulously curated collection that chronicles humanity's advancements in space technology and exploration over the past two decades. This dataset encompasses missions from leading space agencies, including NASA, SpaceX, ISRO, ESA, and Roscosmos.
+It provides in-depth insights into mission types, budgets, crew details, launch success rates, and technological innovations. With over 10,000 mission records, the dataset empowers researchers, data scientists, and space enthusiasts to analyze trends in satellite launches, deep-space missions, and reusable rocket technologies.
+Use this dataset for data visualization, machine learning models, and time-series forecasting, enabling deeper understanding of spacecraft technologies, ground control communication, and orbit dynamics. Whether tracking the success rate of reusable rockets or studying the contribution of different nations to space exploration, this dataset serves as a valuable resource for data-driven discoveries.
